@@ -1,0 +1,9 @@
+2025-10-20 10:00:01 INFO Server started successfully.
+2025-10-20 10:01:15 WARNING CPU usage is high.
+2025-10-20 10:02:20 ERROR Unable to connect to database.
+2025-10-20 10:03:30 INFO User 'admin' logged in.
+2025-10-20 10:04:10 DEBUG Session token generated for user 'admin'.
+2025-10-21 09:15:42 ERROR File not found: config.yaml
+2025-10-21 09:16:00 WARNING Disk space running low.
+2025-10-21 09:17:22 INFO Scheduled backup completed.
+2025-10-21 09:18:50 DEBUG Checking system health status.
