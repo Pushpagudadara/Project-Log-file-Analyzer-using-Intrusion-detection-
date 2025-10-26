@@ -1,3 +1,6 @@
+
+key board and migration logs for filtering:
+
 2025-10-22 08:00:01 INFO Starting database migration.
 2025-10-22 08:10:15 ERROR Migration failed due to timeout.
 2025-10-22 08:15:30 WARNING Backup not found for previous day.
