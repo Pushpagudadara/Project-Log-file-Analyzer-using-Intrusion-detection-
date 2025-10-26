@@ -1,0 +1,31 @@
+
+matplotlib>=3.7.1      # For visualization (bar charts, plots)
+pandas>=2.1.0          # Optional: for advanced log analysis / CSV handling
+numpy>=1.26.0          # Optional: numeric computations if needed
+
+
+---
+
+Notes
+
+1. matplotlib is required for generating the bar charts (visualization.png and filtered_visualization.png).
+
+
+2. pandas and numpy are optional but recommended if you plan to handle large logs, structured data, or want to extend v2 features.
+
+
+3. All standard library modules (os, argparse, re, datetime) do not need to be listed.
+
+
+
+
+---
+
+Install all dependencies
+
+pip install -r requirements.txt
+
+This ensures that anyone cloning your GitHub project can run both log_analyzer.py and log_analyzer_v2.py without errors.
+
+
+
