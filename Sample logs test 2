@@ -1,0 +1,8 @@
+2025-10-22 08:00:01 INFO Starting database migration.
+2025-10-22 08:10:15 ERROR Migration failed due to timeout.
+2025-10-22 08:15:30 WARNING Backup not found for previous day.
+2025-10-22 08:20:00 INFO Migration retry started.
+2025-10-22 08:25:45 DEBUG Query executed: SELECT * FROM users;
+2025-10-22 08:30:10 ERROR User authentication failed for 'guest'.
+2025-10-22 08:35:12 INFO Migration completed successfully.
+2025-10-22 08:40:50 WARNING Low memory detected on server.
