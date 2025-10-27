@@ -1,0 +1,30 @@
+
+⚙️ Installation & Usage
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/your-username/log-file-analyzer.git
+cd log-file-analyzer
+
+2️⃣ Install Dependencies
+
+Make sure you have Python installed. Then run:
+
+pip install -r requirements.txt
+
+3️⃣ Add Log Files
+
+Place your log files (e.g., test.log) inside the sample_logs/ folder.
+
+4️⃣ Run the Analyzer
+
+Execute the script using:
+
+python log_analyzer.py
+
+5️⃣ View the Results
+
+Suspicious IPs and summary will be shown in the console.
+
+Detailed reports and charts will be saved in the output/ folder
+
