@@ -1,0 +1,4 @@
+Total Log Entries: 5000  
+Suspicious IPs Detected: 8  
+Blacklisted IPs: 3  
+Report Generated: output/report.txt
